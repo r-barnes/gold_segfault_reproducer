@@ -1,4 +1,5 @@
-hilbert.bc
-hilbert.i
-hilbert.o
+main.bc
+main.i
+main.o
+main.s
 a.out
